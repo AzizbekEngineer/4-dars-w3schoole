@@ -1,0 +1,64 @@
+header {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(29, 27, 27);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  align-items: center;
+}
+
+header ul li a {
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+}
+h1 {
+  font-size: 30px;
+}
+
+.button .btn {
+  width: 100px;
+  height: 40px;
+  background-color: rgb(69, 228, 140);
+  font-size: 20px;
+  font-weight: 200;
+  color: white;
+}
+
+.main {
+  height: 160px;
+  background-color: rgb(187, 233, 208);
+}
+
+.main .btn {
+  width: auto;
+  height: 40px;
+   background-color: rgb(69, 228, 140);
+  font-size: 20px;
+  font-weight: 200;
+  color: white;
+}
+
+.main .blak{
+    background-color: black;
+}
+.btn {
+  width: auto;
+  height: 40px;
+   background-color: rgb(69, 228, 140);
+  font-size: 20px;
+  font-weight: 200;
+  color: white;
+}
+.btn a{
+text-decoration: none;
+color: white;
+}
